@@ -147,7 +147,7 @@ function actualizarListaConsumos() {
 function calcularResultados(nombreTramo, longitudReal, consumoTotal) {
     const longitudCalculo = longitudReal * 1.3;
     const longitudTabla = encontrarValorSuperior(longitudCalculo, 'longitud');
-    const caudalCalculo = (consumoTotal / 9800) * 1000;
+    const caudalCalculo = (consumoTotal / 9300) * 1000;
     const diametro = encontrarDiametro(caudalCalculo, longitudTabla);
 
     return {
