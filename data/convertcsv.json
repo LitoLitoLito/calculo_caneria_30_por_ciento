@@ -1,16 +1,16 @@
 [
  {
    "A": "longitud",
-   "B": "a_9",
-   "C": "a_13",
-   "D": "a_19",
-   "E": "a_25",
-   "F": "a_32",
-   "G": "a_38",
-   "H": "a_51",
-   "I": "a_63",
-   "J": "a_76",
-   "K": "a_101"
+   "B": "9,5 mm ó 1/2 pulgada",
+   "C": "13 mm ó 1/2 pulgada",
+   "D": "19 mm ó 3/4 pulgada",
+   "E": "25 mm ó 1 pulgada",
+   "F": "32 mm ó 1 y 1/4 pulgadas",
+   "G": "38 mm ó 1 y 1/2 pulgadas",
+   "H": "51 mm ó 2 pulgadas",
+   "I": "63 mm 2 y 1/2 pulgadas",
+   "J": "76 mm ó 3 pulgadas",
+   "K": "101 mm ó 4 pulgadas"
  },
  {
    "A": "2",
